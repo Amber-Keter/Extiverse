@@ -22,5 +22,153 @@
         "version_code": 1,
         "desc": "包含密教模拟器中的共度余生结局分支与漫宿太阳报中的浓情蜜意的时节征文活动稿件。本牌堆数据来源于密教模拟器中文wiki与漫宿太阳报（QQ群号594585374）。",
         "author": "AmberKeter"
+    },
+    "司辰之书-合集（带图版）.json": {
+        "name": "司辰之书-合集（带图版）",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter",
+        "resource": [
+            "司辰之书图包1.zip",
+            "司辰之书图包2.zip",
+            "司辰之书图包3.zip",
+            "司辰之书图包4.zip",
+            "司辰之书图包5.zip",
+            "司辰之书图包6.zip",
+            "司辰之书图包7.zip",
+            "司辰之书图包8.zip",
+            "司辰之书图包9.zip",
+            "司辰之书图包10.zip",
+            "司辰之书图包11.zip",
+            "司辰之书图包12.zip",
+            "司辰之书图包13.zip"
+        ]
+    },
+    "司辰之书-合集.json": {
+        "name": "司辰之书-合集",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-出身.json": {
+        "name": "司辰之书-出身",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-房间.json": {
+        "name": "司辰之书-房间",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-访客.json": {
+        "name": "司辰之书-访客",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-工作台.json": {
+        "name": "司辰之书-工作台",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-回忆.json": {
+        "name": "司辰之书-回忆",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-魂质.json": {
+        "name": "司辰之书-魂质",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-货币.json": {
+        "name": "司辰之书-货币",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-技能.json": {
+        "name": "司辰之书-技能",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-家具.json": {
+        "name": "司辰之书-家具",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-结局.json": {
+        "name": "司辰之书-结局",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-决断.json": {
+        "name": "司辰之书-决断",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-墙饰.json": {
+        "name": "司辰之书-墙饰",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-事件.json": {
+        "name": "司辰之书-事件",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-书籍.json": {
+        "name": "司辰之书-书籍",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-伟大之术.json": {
+        "name": "司辰之书-伟大之术",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-物品.json": {
+        "name": "司辰之书-物品",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
+    },
+    "司辰之书-助手.json": {
+        "name": "司辰之书-助手",
+        "version": "240830",
+        "version_code": 1,
+        "desc": "司辰之书游戏内容，所以数据来源于wiki站（https://boh.huijiwiki.com/wiki），内容截止至2024.8.30（光之屋DLC发售前）",
+        "author": "AmberKeter"
     }
 }
